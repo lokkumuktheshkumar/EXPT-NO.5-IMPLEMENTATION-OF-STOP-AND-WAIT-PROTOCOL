@@ -70,6 +70,7 @@ $ns run
  
 # OUTPUT
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d6093d8e-d57e-445f-8c11-ca857efc1908" />
 
 
 
