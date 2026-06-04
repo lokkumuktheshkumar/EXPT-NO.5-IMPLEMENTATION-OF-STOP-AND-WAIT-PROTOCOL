@@ -69,18 +69,6 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
  
 # OUTPUT
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f135328d-3eda-48e9-b29a-bee175da3848" />
-
-
-# RESULT
-Thus, the Stop and Wait protocol was implemented using NS2 program.
-
-
-
-
-
-
-
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c0ec6b15-7145-4070-b151-a3edeef76b40" />
 # RESULT
 Thus the Stop and Wait protocol is implemented using NS2 and the output is verified successfully.
